@@ -1,5 +1,15 @@
 # Vinyl 7 memo
 
+```
+元サイト
+http://www.vinyl7.net/
+元ブログサイト
+https://www.vinyl7-blog.net/
+```
+
+
+
+
 ### 2/2 memo
 
 タイトルとアーティストの下に、フォーマットを置く。7inch/ 12inch等
