@@ -5,6 +5,8 @@
 http://www.vinyl7.net/
 元ブログサイト
 https://www.vinyl7-blog.net/
+twitter
+https://twitter.com/vinyl7records
 ```
 
 
