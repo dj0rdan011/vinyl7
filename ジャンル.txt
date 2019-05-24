@@ -1,0 +1,14 @@
+V7 - MUSIC GENRE
+"ROCK / POP"
+
+"RAP / HIP HOP"
+
+"SOUL / R&B"
+
+"LATIN"
+
+“REGGAE"
+
+"JAZZ"
+
+“OTHER"
